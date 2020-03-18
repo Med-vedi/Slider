@@ -1,0 +1,27 @@
+.container {
+	position: relative;
+	margin: 30px auto;
+	max-width: 40%;
+	text-align: center;
+
+}
+
+.btn {
+	background-color: #C9F4FC;
+
+}
+.prevButton {
+	position: absolute;
+	left: 0;
+	height: 100%;
+	opacity: 0.5;
+
+
+}
+.nextButton {
+	position: absolute;
+	right: 0;
+	height: 100%;
+	opacity: 0.5;
+
+}
